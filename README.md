@@ -12,12 +12,17 @@ For educational purposes only. Use it responsibly and with permission.
 Requirements
 
 Python 3.x
+
 pynput library (pip install pynput)
+
 Usage
 
 Install Python and pynput.
+
 Run the script to log keystrokes to a file.
+
 Permissions
 
 On macOS, enable Accessibility and Input Monitoring for Python.
+
 On Linux, use sudo to run the script with elevated privileges.
